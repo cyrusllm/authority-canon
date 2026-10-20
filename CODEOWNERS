@@ -1,0 +1,10 @@
+# CODEOWNERS
+# Owner routing for canonical updates
+* @cyrusprescod
+/entity/ @cyrusprescod
+/glossary/ @cyrusprescod
+/frameworks/ @cyrusprescod
+/systems/ @cyrusprescod
+/wiki/ @cyrusprescod
+/proof/ @cyrusprescod
+/sources/ @cyrusprescod
